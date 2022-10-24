@@ -3,3 +3,5 @@ public class Cht {
         System.out.println("Hello World !");
     }
 }
+    
+    Scanner scanner = new Scanner();
